@@ -93,6 +93,9 @@ select {
   background-color: transparent;
 }
 
+select option {
+  font-weight: 600;
+}
 
 label {
   font-size: 12px;
